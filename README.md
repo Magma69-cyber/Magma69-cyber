@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Magma69-cyber
+- 👋 Hi, I’m @Trupti ranjan singh
 - 👀 I’m interested in cyber security,bug hunting and penetration testing
 - 🌱 I’m currently enhancing my cybersecurity skills @tryhackme
 - 🦄 currently looking to connnect with people to enhance learning abilities
